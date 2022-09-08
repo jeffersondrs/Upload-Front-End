@@ -8,7 +8,7 @@ import GlobalStyle from "./styles/global";
 import { Container, Content } from "./styles/styles";
 
 import Upload from "./assets/Components/Upload/Index";
-import FileList from "./assets/Components/FileList";
+import FileList from "./assets/Components/FileList/Index";
 
 class App extends Component {
   state = {
