@@ -7,8 +7,8 @@ import api from "./assets/Api/Api";
 import GlobalStyle from "./styles/global";
 import { Container, Content } from "./styles/styles";
 
-import Upload from "./assets/components/Upload";
-import FileList from "./assets/components/FileList";
+import Upload from "./assets/Components/Upload";
+import FileList from "./assets/Components/FileList";
 
 class App extends Component {
   state = {
