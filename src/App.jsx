@@ -114,7 +114,7 @@ class App extends Component {
             <FileList files={uploadedFiles} onDelete={this.handleDelete} />
           )}
         </Content>
-        <GlobalStyle />
+        <GlobalStyle/>
       </Container>
     );
   }
